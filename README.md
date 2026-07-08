@@ -1,38 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Godspower Jonah 👋</h1>
 
-# 💻 Tech Stack:
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Godspowerj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Godspowerj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Godspowerj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Backend Systems Engineer passionate about building scalable backend systems and understanding how software behaves under real-world workloads.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Godspowerj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Godspowerj/Godspowerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💻 Tech Stack:
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Godspowerj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Godspowerj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Godspowerj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🧠 About Me
+
+I focus on **Go, Node.js, distributed systems, performance engineering, and system design**. I enjoy building production-inspired projects, benchmarking them, identifying bottlenecks, and evolving them into more reliable, scalable systems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Godspowerj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Currently Building
 
-Here are some ideas to get you started:
+- 🔗 A **distributed URL shortener platform** in Go — exploring sharding, caching, and fault tolerance
+- 📝 Architecture Decision Records (ADRs), benchmark reports, and documentation of engineering trade-offs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 Currently Deepening My Knowledge In
+
+- Distributed Systems & System Design
+- Performance Engineering
+- Cloud Infrastructure (Docker, Kubernetes)
+- PostgreSQL, Redis, Kafka at scale
+
+### 👯 Looking to Collaborate On
+
+- Backend engineering projects
+- Open source Go projects
+- Distributed systems tooling
+- Developer tools
+
+### 💬 Ask Me About
+
+Go · Node.js · REST APIs · PostgreSQL · Redis · Docker · System Design · Backend Architecture
+
+---
+
+### 🛠️ Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+<!-- Add your best repos here once ready, e.g.:
+- **[Distributed URL Shortener](https://github.com/yourusername/repo-name)** — Go-based sharded URL shortener with Redis caching and Kafka-based analytics pipeline.
 -->
+> _(Add links to your top 2–3 repos here — this is prime real estate for recruiters and collaborators.)_
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [godspjona27@gmail.com](mailto:godspjona27@gmail.com)
+- 💼 LinkedIn: <!-- ADD YOUR LINKEDIN URL HERE -->
+- 🌐 Portfolio: <!-- ADD YOUR PORTFOLIO URL HERE -->
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy taking simple backend applications and gradually evolving them into production-inspired systems — to better understand scalability, reliability, and performance under real-world conditions.
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Godspowerj&show_icons=true&theme=default" alt="Godspower's GitHub Stats" />
+</p>
