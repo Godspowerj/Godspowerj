@@ -117,22 +117,9 @@ A Go-based URL shortener exploring sharding, caching, and fault tolerance at sca
 ### 📫 How to Reach Me
 
 - 📧 Email: [godspjona27@gmail.com](mailto:godspjona27@gmail.com)
-- 💼 LinkedIn: <!-- ADD YOUR LINKEDIN URL HERE -->
-- 🌐 Portfolio: <!-- ADD YOUR PORTFOLIO URL HERE -->
-
 ---
 
 ### ⚡ Fun Fact
 
 I enjoy taking simple backend applications and gradually evolving them into production-inspired systems — to better understand scalability, reliability, and performance under real-world conditions.
 
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Godspowerj&show_icons=true&theme=dark" alt="Godspower's GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=Godspowerj&theme=dark" alt="Godspower's GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godspowerj&layout=compact&theme=dark" alt="Godspower's Top Languages" />
-</p>
